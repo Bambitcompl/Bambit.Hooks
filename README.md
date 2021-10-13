@@ -6,10 +6,10 @@ Shared repository, filled with custom React hooks, that can be used in future pr
 
 | Name | Description | Link |
 |:---:|:---:|:---:|
-| **useBreakpointsGenerator** | Custom hook to generate breakpoints responsible for changing active menu entry. | [Beloud](https://github.com/Bambitcompl/Bambit.Beloud/blob/5e8b0b474072dec857f757e182c81df0d8dc6a96/src/hooks/useBreakpointsGenerator.tsx) |
-| **useTextFormatting** | Custom hook that will format polish text and move orphans (e.g. 'i', 'w', etc.) to the next line | [NiceGuys](https://github.com/Bambitcompl/Bambit.NiceGuys/blob/abde340328bdec5aef9e259d9ad71c27a8a1fbb4/src/hooks/useTextFormatting.tsx) |
-| **useClickOutsideHandler** | **Todo** | [Smartbox](https://github.com/Bambitcompl/Bambit.Smartbox/blob/96385a6fb51e6e87cfb24fadcd0cbce1d592b8fa/src/hooks/useClickOutsideHandler.tsx) |
-|  |  |  |
+| **useBreakpointsGenerator** | Custom hook to generate breakpoints responsible for changing active menu entry. | [Link](/hooks/useBreakpointsGenerator.tsx ) |
+| **useOrphansFormatting** | Custom hook that will format polish text and move orphans (e.g. 'i', 'w', etc.) to the next line | [Link](/hooks/useOrphansFormatting.tsx ) |
+| **useClickOutsideHandler** | Custom hook to detect wheter a click appeared outside of passed element | [Link](/hooks/useClickOutsideHandler.tsx ) |
+| **useWindowDimensions** | Custom hook to get window inner width and height even after resize | [Link](/hooks/useWindowDimensions.tsx ) |
 
 ## How to add new hook?
 
